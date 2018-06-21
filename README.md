@@ -24,6 +24,7 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [HiCExplorer](https://github.com/deeptools/HiCExplorer)
 - [hichipper](https://github.com/aryeelab/hichipper)
 - [HiCToolsCompare](https://bitbucket.org/mforcato/hictoolscompare/downloads/)
+- [PSYCHIC](https://github.com/dhkron/PSYCHIC)
 - [HiCnv](https://github.com/ay-lab/HiCnv)
 - [HiCtrans](https://github.com/ay-lab/HiCtrans)
 
