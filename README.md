@@ -27,6 +27,7 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [PSYCHIC](https://github.com/dhkron/PSYCHIC)
 - [HiCnv](https://github.com/ay-lab/HiCnv)
 - [HiCtrans](https://github.com/ay-lab/HiCtrans)
+- [4dnucleome](https://www.4dnucleome.org/software.html)
 
 
 ## Cis‐rSNPs--Mutation in ChIP-Seq (allele specific binding)
