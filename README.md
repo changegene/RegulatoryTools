@@ -13,6 +13,7 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [GETx](https://www.gtexportal.org/home/documentationPage)
 - [PancanQTL](http://bioinfo.life.hust.edu.cn/PancanQTL/)
 - [WASP](https://github.com/bmvdgeijn/WASP)
+- [Matrix_eQTL](http://www.bios.unc.edu/research/genomic_software/Matrix_eQTL/)
 
 ## SNP regulation
 - [SNPhood](http://bioconductor.org/packages/release/bioc/html/SNPhood.html)
